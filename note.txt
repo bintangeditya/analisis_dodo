@@ -1,0 +1,2 @@
+sumber dari modeling
+https://towardsdatascience.com/sentiment-analysis-on-a-imdb-movie-review-dataset-with-a-support-vector-machines-model-in-python-50c1d487327e
